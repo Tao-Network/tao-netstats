@@ -1,5 +1,5 @@
 FROM node:8-alpine
-LABEL maintainer="anil@xinfin.org"
+LABEL maintainer="bryce@tao.network"
 ENV WS_SECRET ''
 WORKDIR /netstats
 COPY ./ ./

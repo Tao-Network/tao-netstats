@@ -1,6 +1,6 @@
 {
-  "name": "xdc-netstats",
-  "description": "XDC01 Network Intelligence dashboard",
+  "name": "tao-netstats",
+  "description": "Tao Network Intelligence dashboard",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -9,7 +9,7 @@
   },
   "scripts": {
     "dev": "grunt && nodemon ./bin/www",
-    "start": "pm2 start ./bin/www --name XDCStats-MainNet"
+    "start": "pm2 start ./bin/www --name TaoStats-MainNet"
   },
   "dependencies": {
     "body-parser": "1.13.3",
@@ -44,9 +44,9 @@
   },
   "authors": [
     {
-      "name": "Anil Chinchawale",
-      "email": "Anil@xinfin.org",
-      "url": "https://github.com/anilchinchawale"
+      "name": "Bryce Weiner",
+      "email": "bryce@tao.network",
+      "url": "https://github.com/taoblockchain"
     }
   ],
   "license": "LGPL-3.0",

@@ -64,7 +64,7 @@ table a{cursor:pointer;}
 .modal-body{font-size:16px;color:#4c4c4c;}
 .modal-body p strong{font-weight:600;color:#44a2d2;}
 .modal-body p:last-child{margin-bottom:0px;}
-.bg-image{background: linear-gradient(rgba(255,255,255,.9), rgba(255,255,255,.9)), url(../images/xdc.png);background-repeat: no-repeat;background-position: center center;background-size: contain;border-radius:.3rem!important;}
+.bg-image{background: linear-gradient(rgba(255,255,255,.9), rgba(255,255,255,.9)), url(../images/tao.png);background-repeat: no-repeat;background-position: center center;background-size: contain;border-radius:.3rem!important;}
  
 svg{width:100%!important;}
 
